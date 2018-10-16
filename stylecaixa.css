@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(180, 204, 248);
+}
+.container {
+    text-align: center;
+}
+.tabela-1 {
+    text-align: center;
+}
+#form-1 {
+    width: 100px;
+    margin:auto;
+    
+}
+#form-2 {
+    width: 150px;
+    margin:auto;
+    
+}
+#table-1 {
+    width: 300px;
+    margin:auto;
+    
+}
+strong {
+    font-size: 20px;
+    
+}
+.success {
+    text-align: center;
+}
+#link-1 {
+    text-decoration: none;
+}
+#link-2 {
+    text-decoration: none;
+    margin: right;
+}
+#link-3 {
+    text-decoration: none;
+}
+
+.panel, .panel-success {
+    
+    bottom:0;
+    width:100%;
+    text-align: center;
+    line-height: 5px;
+}
+.form-control, .form-control-sm {
+    width: 150px;
+    margin:auto;
+    
+}
